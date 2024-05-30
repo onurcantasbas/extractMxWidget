@@ -1,0 +1,32 @@
+.widget-badge-button {
+    display: inline-block;
+}
+
+.widget-badge-button-text {
+    white-space: nowrap;
+    padding-right: 5px;
+}
+.widget-badge-button .badge {
+
+    top:unset;
+    display: inline-block;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+    vertical-align: baseline;
+    white-space: nowrap;
+    background-color: blue;
+    color: white;
+    font-size: 100%;
+    line-height: 1;
+}
+
+
+.badge .form-control-static{
+    font-weight: 100;
+    all: unset;
+}
+
+.widget-badge{
+    color:blue;
+}
